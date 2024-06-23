@@ -1,0 +1,12 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+/GenoPrimer_CLI
+/protospaceX_CLI
+/.idea
+/protospaceX_backend/__pycache__
+/core/__pycache__
+/precomputed_primers
+/protoSpaceJAM
+/wrapper_stdout_protospaceX.txt
+/views_stdout_protospaceX.txt
+/views_stdout_GenoPrimer.txt

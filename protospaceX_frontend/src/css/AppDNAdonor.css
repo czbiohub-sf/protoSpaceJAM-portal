@@ -1,0 +1,8 @@
+.indent-second-line {
+    text-indent: -2em; /* Negative indent to bring the first line back to the margin */
+    padding-left: 1em; /* Padding to create the indent effect for the remaining lines */
+  }
+  
+  .indent-second-line::first-line {
+    text-indent: 0; /* Reset the first line indentation */
+  }
